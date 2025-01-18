@@ -1,0 +1,3 @@
+org\epf\hadoop\colfil3\ColFilJob3.class
+org\epf\hadoop\colfil3\RecommendationsReducer.class
+org\epf\hadoop\colfil3\RecommendationsMapper.class

@@ -1,0 +1,5 @@
+C:\Users\lucfl\Desktop\TPRenduBigData\hadoop-tp3\p-collaborative-filtering-job-2\src\main\java\org\epf\hadoop\colfil2\ColFilJob2.java
+C:\Users\lucfl\Desktop\TPRenduBigData\hadoop-tp3\p-collaborative-filtering-job-2\src\main\java\org\epf\hadoop\colfil2\UserPair.java
+C:\Users\lucfl\Desktop\TPRenduBigData\hadoop-tp3\p-collaborative-filtering-job-2\src\main\java\org\epf\hadoop\colfil2\UserPairPartitioner.java
+C:\Users\lucfl\Desktop\TPRenduBigData\hadoop-tp3\p-collaborative-filtering-job-2\src\main\java\org\epf\hadoop\colfil2\UserRelationsMapper.java
+C:\Users\lucfl\Desktop\TPRenduBigData\hadoop-tp3\p-collaborative-filtering-job-2\src\main\java\org\epf\hadoop\colfil2\UserRelationsReducer.java
